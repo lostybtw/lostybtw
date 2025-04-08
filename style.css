@@ -15,7 +15,7 @@ body{
 }
 .container{
   padding: 10px 10%;
-  color: ff55ff;
+  color: #ff55ff;
   font-size: 24;
 }
 nav{
@@ -70,6 +70,7 @@ h1{
   text-align: center;
   margin: 150px 150px;
   font-size: 20px;
+  color: #ffffff;
 }
 .Qualifications{
   background-image: url("qual.png");
