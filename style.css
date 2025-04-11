@@ -7,27 +7,25 @@
 body{ 
   background : #2a2a2f;
   width: 100%;
-  height: 375%;
+  height: 100%;
   color: #ffffff;
-  border-color: #ffffff;
 }
 #header{
   width: 100%;
   height: 100vh;
 }
 .container{
-  padding: 10px 10%;
+  padding: 1% 10%;
   color: #ff55ff;
-  font-size: 24;
 }
 nav{
   align-items: right;
 }
 nav ul li{
   display: inline-block;
-  padding: 10px 10px;
+  padding: 1% 1%;
   list-style: none;
-  margin: 100px 100px;
+  margin: 5% 5%;
 }
 nav ul li a{
   color: #dddddd;
@@ -39,29 +37,27 @@ nav ul li a:hover{
 .Home{
   background: #1f1f1f;
   background-clip: padding-box;
-  width: 100%;
-  height: 80%;
-  border: 5px 5px;
+  border: 0.5% 0.5%;
   border-style: solid;
   border-color: #bbbbbb;
 }
 h1{
   color: #b0b0ff;
   text-align: center;
-  margin-top: 30px;
-  padding-top: 30px;
+  margin-top: 3%;
+  padding-top: 3%;
 }
 .Home h3{
   color: #b0b0ff;
   text-align: center;
 }
 .Home img{
-  height: 650px;
-  width: 375px;
-  margin-right: 200px;
-  margin-left: 100px;
+  height: 65%;
+  width: auto;
+  margin-right: 20%;
+  margin-left: 10%;
   border-color: #b0b0ff;
-  border-width: 5px 5px;
+  border-width: 0.5% 0.5%;
   border-style: solid;
   display: flex;
   align-items: center;
@@ -70,43 +66,39 @@ h1{
 }
 .Home p{
   text-align: center;
-  margin: 150px 150px;
-  font-size: 20px;
+  margin: 15% 15%;
   color: #ffffff;
 }
 .Qualifications{
   background-image: url("qual.png");
-  width: 1920px;
-  height: 1080px;
   border-color: #bbbbbb
-  border: 5px 5px;
+  border: 5% 5%;
   border-style: solid;
-  margin-top: 60px;
+  margin-top: 6%;
 }
 ul li{
   list-style-type: circle;
-  padding: 5px 5px;
-  margin-left: 100px;
-  margin-top: 35px;
-  font-size: 20px;
+  padding: 0.5% 0.5%;
+  margin-left: 10%;
+  margin-top: 3.5%;
   list-style-type: square;
   color: #11eec0;
 }
 .NewProjects{
   background: #222222;
-  height: 45%;
   border-style: solid;
-  border: 5px 5px;
-  margin-top: 60px;
+  border: 0.5% 0.5%;
+  margin-top: 6%;
+  padding-bottom: 5%;
 }
 .NewProjects ul li{
   color: #ffc9f0;
 }
 .Contact{
   background: #121123;
-  height: 40%;
   border-style: solid;
-  border: 5px 5px;
-  margin-top: 60px;
-  margin-bottom: 200px;
+  border: 0.5% 0.5%;
+  margin-top: 6%;
+  margin-bottom: 20%;
+  padding-bottom: 5%; 
 }
